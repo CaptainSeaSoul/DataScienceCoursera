@@ -7,3 +7,5 @@ Our goal is to predict if the Falcon 9 (by SpaceX) first stage will land success
     <li>Predictive Analysis (Classification)</li>
     <li>Present Data-Driven Insights</li>
 </ul>
+<a href="https://www.coursera.org/learn/applied-data-science-capstone" target="_blank" rel="noopener noreferrer">Applied Data Science Capstone: coursera.org/learn/applied-data-science-capstone</a><br>
+<a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank" rel="noopener noreferrer">IBM Data Science Professional Certificate: coursera.org/professional-certificates/ibm-data-science</a>
