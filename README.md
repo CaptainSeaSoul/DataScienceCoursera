@@ -9,4 +9,4 @@ Our goal is to predict if the Falcon 9 (by SpaceX) first stage will land success
 </ul>
 
 Applied Data Science Capstone: <a href="https://www.coursera.org/learn/applied-data-science-capstone" target="_blank" rel="noopener noreferrer">coursera.org/learn/applied-data-science-capstone</a><br>
-IBM Data Science Professional Certificate: <a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank" rel="noopener noreferrer">coursera.org/professional-certificates/ibm-data-science</a>
+IBM Data Science Professional Certificate: <a href="https://coursera.org/share/ecc9f3126e55c1c615042143f2e1d1b3" target="_blank" rel="noopener noreferrer">coursera.org/share/ecc9f3126e55c1c615042143f2e1d1b3</a>
